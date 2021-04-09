@@ -1,0 +1,7 @@
+.settings/
+target/
+# file config database
+db.properties
+pom.xml
+src/main/resources/db.properties
+.metadata
